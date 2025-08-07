@@ -1,3 +1,6 @@
 - Vestidos
 - Saias
 - Camisetas
+- Tenis
+- Casaco
+- Jaqueta
