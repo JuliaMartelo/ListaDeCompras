@@ -5,3 +5,6 @@
 - Morango
 - abacaxi
 - mamão
+- Laranja
+- Uva verde
+- Pitaya
