@@ -3,3 +3,5 @@
 - Banana
 - Abacate
 - Morango
+- abacaxi
+- mamão
